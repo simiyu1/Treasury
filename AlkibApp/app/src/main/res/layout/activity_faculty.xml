@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.jeffnyangoya.alkibapp.Faculty">
+
+        <Button
+            android:id="@+id/bFs"
+            android:layout_width="match_parent"
+            android:textColor="#33ccff"
+            android:text="FACULTY OF SCIENCE"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/bFess"
+            android:layout_width="match_parent"
+            android:textColor="#33ccff"
+            android:text="FACULTY OF SCIENCE AND SOCIAL SCIENCE"
+            android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/bScai"
+        android:layout_width="match_parent"
+        android:textColor="#33ccff"
+        android:text="SCHOOL OF COMPUTING AND INFOMATICS"
+        android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/bSobe"
+            android:layout_width="match_parent"
+            android:textColor="#33ccff"
+            android:text="SCHOOL OF BUSSINESS AND ECONOMICS"
+            android:layout_height="wrap_content" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AlkibApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_forum">Forum</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_faculty">Faculty</string>
+    <string name="title_activity_fess">FESS</string>
+    <string name="title_activity_fes">FES</string>
+    <string name="title_activity_scai">SCAI</string>
+    <string name="title_activity_sobe">SOBE</string>
+    <string name="title_activity_fes_contacts">FesContacts</string>
+    <string name="title_activity_fes_structure">FesStructure</string>
+    <string name="title_activity_fes_mentor">FesMentor</string>
+    <string name="title_activity_fs">fs</string>
+    <string name="title_activity_facultyfs">facultyfs</string>
+    <string name="title_activity_facultyfess">facultyfess</string>
+    <string name="title_activity_facultyscai">facultyscai</string>
+    <string name="title_activity_facultysobe">facultysobe</string>
+    <string name="title_activity_fess_contact">fessContact</string>
+    <string name="title_activity_fess_mentor">fessMentor</string>
+    <string name="title_activity_fess_structure">fessStructure</string>
+    <string name="title_activity_fs_contact">fsContact</string>
+    <string name="title_activity_fs_mentor">fsMentor</string>
+    <string name="title_activity_fs_structure">fsStructure</string>
+    <string name="title_activity_sobe_contact">sobeContact</string>
+    <string name="title_activity_sobe_mentor">sobeMentor</string>
+    <string name="title_activity_sobe_structure">sobeStructure</string>
+    <string name="title_activity_scai_contact">scaiContact</string>
+    <string name="title_activity_scai_mentor">scaiMentor</string>
+    <string name="title_activity_scai_structure">scaiStructure</string>
+</resources>

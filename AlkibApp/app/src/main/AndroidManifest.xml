@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jeffnyangoya.alkibapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".Forum"
+            android:label="@string/title_activity_forum" >
+        </activity>
+        <activity
+            android:name=".Messages"
+            android:label="@string/title_activity_messages" >
+        </activity>
+        <activity
+            android:name=".Profile"
+            android:label="@string/title_activity_profile" >
+        </activity>
+        <activity
+            android:name=".Faculty"
+            android:label="@string/title_activity_faculty" >
+        </activity>
+        <activity
+            android:name=".FESS"
+            android:label="@string/title_activity_fess" >
+        </activity>
+        <activity
+            android:name=".FES"
+            android:label="@string/title_activity_fes" >
+        </activity>
+        <activity
+            android:name=".SCAI"
+            android:label="@string/title_activity_scai" >
+        </activity>
+        <activity
+            android:name=".SOBE"
+            android:label="@string/title_activity_sobe" >
+        </activity>
+        <activity
+            android:name=".FesContacts"
+            android:label="@string/title_activity_fes_contacts" >
+        </activity>
+        <activity
+            android:name=".FesStructure"
+            android:label="@string/title_activity_fes_structure" >
+        </activity>
+        <activity
+            android:name=".FesMentor"
+            android:label="@string/title_activity_fes_mentor" >
+        </activity>
+        <activity
+            android:name=".fs"
+            android:label="@string/title_activity_fs" >
+        </activity>
+        <activity
+            android:name=".facultyfs"
+            android:label="@string/title_activity_facultyfs" >
+        </activity>
+        <activity
+            android:name=".facultyfess"
+            android:label="@string/title_activity_facultyfess" >
+        </activity>
+        <activity
+            android:name=".facultyscai"
+            android:label="@string/title_activity_facultyscai" >
+        </activity>
+        <activity
+            android:name=".facultysobe"
+            android:label="@string/title_activity_facultysobe" >
+        </activity>
+        <activity
+            android:name=".fessContact"
+            android:label="@string/title_activity_fess_contact" >
+        </activity>
+        <activity
+            android:name=".fessMentor"
+            android:label="@string/title_activity_fess_mentor" >
+        </activity>
+        <activity
+            android:name=".fessStructure"
+            android:label="@string/title_activity_fess_structure" >
+        </activity>
+        <activity
+            android:name=".fsContact"
+            android:label="@string/title_activity_fs_contact" >
+        </activity>
+        <activity
+            android:name=".fsMentor"
+            android:label="@string/title_activity_fs_mentor" >
+        </activity>
+        <activity
+            android:name=".fsStructure"
+            android:label="@string/title_activity_fs_structure" >
+        </activity>
+        <activity
+            android:name=".sobeContact"
+            android:label="@string/title_activity_sobe_contact" >
+        </activity>
+        <activity
+            android:name=".sobeMentor"
+            android:label="@string/title_activity_sobe_mentor" >
+        </activity>
+        <activity
+            android:name=".sobeStructure"
+            android:label="@string/title_activity_sobe_structure" >
+        </activity>
+        <activity
+            android:name=".scaiContact"
+            android:label="@string/title_activity_scai_contact" >
+        </activity>
+        <activity
+            android:name=".scaiMentor"
+            android:label="@string/title_activity_scai_mentor" >
+        </activity>
+        <activity
+            android:name=".scaiStructure"
+            android:label="@string/title_activity_scai_structure" >
+        </activity>
+    </application>
+
+</manifest>
